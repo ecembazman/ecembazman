@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Explainable Artificial Intelligence (XAI)
 - 👯 I’m looking to collaborate on Explainable Artificial Intelligence (XAI)
 - 🤔 I’m looking for help with Explainable Artificial Intelligence (XAI)
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...https://www.linkedin.com/in/ecem-nilay-bazman-225068105/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything
+- 📫 How to reach me: https://www.linkedin.com/in/ecem-nilay-bazman-225068105/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: cats and dogs lover
 
