@@ -7,6 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a software developer in Havelsan
+- 🔭 I'm currently trying to become as a data scientist
 - 🌱 I’m currently learning Explainable Artificial Intelligence (XAI)
 - 👯 I’m looking to collaborate on Explainable Artificial Intelligence (XAI)
 - 🤔 I’m looking for help with Explainable Artificial Intelligence (XAI)
