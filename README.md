@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/ecem-nilay-bazman/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: cats and dogs lover
+- ⚡ Fun fact: camping, cats and dogs lover
 
