@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: camping, cats and dogs lover
 <br />
 <br />
-<deatils> 
-<summary>:bulb: Github Stats </sumary>
+<details> 
+<summary> :blub: Github Stats </summary>
 <img src= "https://github-readme-stats.vercel.app/api?username=ecembazman&theme=radical" >
+
 </details>
 <br />
 <br />
-<deatils> 
-<summary>:bulb: Most Used Languages </sumary>
+
+<details> 
+<summary>:bulb: Most Used Languages </summary>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ecembazman&layout=compact" >
 </details>
-
