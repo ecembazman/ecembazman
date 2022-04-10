@@ -1,4 +1,4 @@
-<image src = "https://media.giphy.com/media/L0CKoFS2dYKqh48xcs/giphy.gif" align="right" weight= "200" height="250">
+<image src = "https://media.giphy.com/media/L0CKoFS2dYKqh48xcs/giphy.gif" align="right" weight= "200" height="300">
 
 ### Hi there 👋 I'm Ecem
 ## Software Engineer | JAVA Developer
@@ -7,6 +7,7 @@
 ### Reach out to me
 [linkedin]: https://www.linkedin.com/in/ecem-nilay-bazman/
 <img height="25" width="25" color ="white" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [linkedin]
+<br />
 <br />
 <br />
 Here are some ideas to get you started:
@@ -22,9 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: camping, cats and dogs lover
 <br />
 <br />
-
 ### Tech I used
-<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><img height="25" width="50" src="https://www.osgi.org/images/logo/osgi.png" /><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="25" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><img height="25" width="50" src="https://www.osgi.org/images/logo/osgi.png" /><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
 <br />
 <details> 
