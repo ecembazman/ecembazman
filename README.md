@@ -1,4 +1,4 @@
-<image src = "https://media.giphy.com/media/L0CKoFS2dYKqh48xcs/giphy.gif" align="right" weight= "200" height="200">
+<image src = "https://media.giphy.com/media/L0CKoFS2dYKqh48xcs/giphy.gif" align="right" weight= "200" height="250">
 
 ### Hi there 👋 I'm Ecem
 ## Software Engineer | JAVA Developer
@@ -6,7 +6,7 @@
 
 ### Reach out to me
 [linkedin]: https://www.linkedin.com/in/ecem-nilay-bazman/
-<img height="60" width="25" color ="white" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [linkedin]
+<img height="25" width="25" color ="white" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [linkedin]
 <br />
 <br />
 Here are some ideas to get you started:
