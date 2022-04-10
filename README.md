@@ -6,7 +6,7 @@
 
 ### Reach out to me
 [linkedin]: https://www.linkedin.com/in/ecem-nilay-bazman/
-<img height="40" width="25" color ="white" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [linkedin]
+<img height="60" width="25" color ="white" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [linkedin]
 <br />
 <br />
 Here are some ideas to get you started:
