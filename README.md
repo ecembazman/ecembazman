@@ -10,8 +10,6 @@
 <img height="25" width="25" color ="white" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [linkedin]
 <br />
 <br />
-<br />
-<br />
 
 Here are some ideas to get you started:
 
@@ -31,16 +29,10 @@ Here are some ideas to get you started:
 <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><img height="25" width="50" src="https://www.osgi.org/images/logo/osgi.png" /><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
 <br />
-<br />
-<br />
 <deatils> 
 <summary>:bulb: Github Stats </sumary>
 <img src= "https://github-readme-stats.vercel.app/api?username=ecembazman&theme=radical" >
 </details>
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <deatils> 
