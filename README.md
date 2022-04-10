@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <details> 
-<summary> :blub: Github Stats </summary>
+<summary> :bulb: Github Stats </summary>
 <img src= "https://github-readme-stats.vercel.app/api?username=ecembazman&theme=radical" >
 </details>
 <br />
